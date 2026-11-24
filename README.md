@@ -217,7 +217,7 @@ Compare every hardware implementation against a software reference. Separate alg
 
 ## 10. Suggested repository structure
 
-\x60\x60\x60text
+```text
 .
 ├── README.md
 ├── theory/
@@ -242,7 +242,7 @@ Compare every hardware implementation against a software reference. Separate alg
 └── docs/
     ├── architecture/
     └── references/
-\x60\x60\x60
+```
 
 ## 11. First milestones
 
